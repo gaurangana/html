@@ -1,0 +1,21 @@
+
+    h1{
+        color :black ;
+        border: saddlebrown ;
+        background-color:#FFAAA4;
+      border: 3px solid rgb(163, 25, 25)
+      
+
+     }
+  *{
+    background-color: rgb(168,229,206);
+    
+ } 
+ .footer{
+    display: flex;
+    justify-content: flex-end;
+ }
+
+
+
+
